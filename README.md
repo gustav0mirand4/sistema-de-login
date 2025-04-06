@@ -59,15 +59,19 @@ Tela de login
 <img title="login" alt="tela de login" src="img/2025-04-04_21-42.png">
 
 Tela de cadastro de usuário
+
 <img title="register" alt="tela de cadastro" src="img/2025-04-04_21-42_1.png">
 
 Tela para inserir o email de recuperação de conta
+
 <img title="password_email_recovery_layout" alt="tela de email para recuperação de conta" src="img/2025-04-04_21-43.png">
 
 Tela para inserir o código para alterar senha
+
 <img title="recovery_code_layout" alt="tela do código de recuperação de conta" src="img/2025-04-04_21-43_1.png">
 
 Tela para alterar a senha do usuário
+
 <img title="change_password_layout" alt="tela para alterar a senha" src="img/2025-04-04_21-44.png">
 
 ____
