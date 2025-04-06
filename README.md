@@ -19,7 +19,8 @@ Instale a depêndencias do projeto
 
 `python3 -m pip install -r requirements.txt`
 
-Configurações das variáveis de ambiente para o servidor smtp:
+Apos a instalar o `MySql`, faça a configuração das variáveis de ambiente para o servidor smtp:
+
 Crie um arquivo `.env` nas pasta `\src\` em seguida insira as configurações. 
 
 ```
