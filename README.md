@@ -1,6 +1,6 @@
 ### Sistema de Autenticação  em Python
 
-O sistema é uma aplicação desktop simples com cadastro e recuperação  de contas de usuários. O software foi construido usando `MySql` como banco de dados e `PySimpleGUI` para interface gráfica. O sistema tem como objetivo fins de estudos práticos, para compreenção e o funcionamento de um sistema de login completo, todo projeto foi feito sem auxilio de frameworks, apenas com python puro. 
+O sistema é uma aplicação desktop simples com cadastro e recuperação  de contas de usuários. O software foi construido usando `MySql` como banco de dados e `PySimpleGUI` para interface gráfica. O programa tem como objetivo fins de estudos práticos, para compreenção e o funcionamento de um software de login completo, todo projeto foi feito sem auxilio de frameworks, apenas com python puro. 
 
 ___
 #### Configurações do projeto
@@ -73,6 +73,7 @@ Tela para inserir o código para alterar senha
 Tela para alterar a senha do usuário
 
 <img title="change_password_layout" alt="tela para alterar a senha" src="img/2025-04-04_21-44.png">
+
 
 ____
 
