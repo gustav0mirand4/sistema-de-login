@@ -1,4 +1,4 @@
-PySimpleGUI=5.0.8
-mysql-connector-python=9.2.0
-python-dotenv=1.0.1
+PySimpleGUI==5.0.8
+mysql-connector-python==9.2.0
+python-dotenv==1.0.1
 
