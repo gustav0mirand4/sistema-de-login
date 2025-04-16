@@ -26,7 +26,7 @@ Crie um arquivo `.env` nas pasta `\src\` em seguida insira as configurações.
 ```
 HOST=localhost
 USER=root
-PASSWORD="senha do servidor SMTP"
+PASSWORD="senha do banco de dados"
 DATABASE="nome do banco de dados"
 SMTPEMAIL="email do usuário"
 SMTPPASS="senha do usuário"

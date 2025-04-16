@@ -1,7 +1,6 @@
 import mysql
 import mysql.connector
 import os
-import PySimpleGUI as sg
 from dotenv import load_dotenv
 
 load_dotenv()
