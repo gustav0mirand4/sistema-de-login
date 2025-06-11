@@ -8,8 +8,6 @@ ___
 Crie e ative um ambiente virtual 
 
 
-Windows 
-
 `python3 -m venv C:\path\to\new\virtual\environment`
 
 
@@ -26,10 +24,10 @@ Crie um arquivo `.env` nas pasta `\src\` em seguida insira as configurações.
 ```
 HOST=localhost
 USER=root
-PASSWORD="senha do banco de dados"
-DATABASE="nome do banco de dados"
-SMTPEMAIL="email do usuário"
-SMTPPASS="senha do usuário"
+PASSWORD="senha-do-banco"
+DATABASE="nome-do-banco"
+SMTPEMAIL="email-de-usuário"
+SMTPPASS="senha-de-usuário"
 ```
 Configurões do servidor SMTP no arquivo `validation.py`. 
 
