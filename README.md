@@ -37,9 +37,6 @@ smtp.gmail.com
 
 smtp-mail.outlook.com
 
-`host` é o domínio
-`port` a porta do servidor
-
 As opções de configuração incluem:
 Porta 25, 465 ou 587. Protocolos SSL e TLS.
 
